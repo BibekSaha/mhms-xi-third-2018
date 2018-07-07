@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=void\ upperCase(java.lang.String)
+comment1.params=str
+comment1.target=void\ vowels(java.lang.String)
+comment2.params=str
+comment2.target=void\ longest(java.lang.String)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
